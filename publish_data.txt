@@ -1,0 +1,7 @@
+"publish_data"
+{
+	"title"		"CS2 Fortnite Emotes & Dances"
+	"source_folder"		"fortnite_emotes"
+	"publish_time"		"1769625137"
+	"publish_time_readable"		"01/29/2026 12:02:17 AM"
+}
